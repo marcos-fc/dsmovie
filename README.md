@@ -1,7 +1,7 @@
 # DSMovie
 Online database for film ratings
 * **Live App:**
-[DSMovie](https://marcosfc-dsmovie.netlify.app/)
+[DSMovie](https://dsmovie-mf.netlify.app/)
   # Technologies used in the project development
   ## Frontend
   * **Typescript**
